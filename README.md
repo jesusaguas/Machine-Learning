@@ -1,5 +1,5 @@
 # Machine-Learning
-All my machine learning work using MATLAB divided in different areas of application:
+All my Machine Learning work using MATLAB divided in different areas of application:
 
 #### Practica 1 - Linear Regression
 #### Practica 2 - Regularization & Cross validation
